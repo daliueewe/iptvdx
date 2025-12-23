@@ -27,6 +27,8 @@ http://172.17.0.2/udp/239.49.0.127:8000
 http://172.17.0.2/udp/239.49.8.55:9822
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13新闻
 http://172.17.0.2/udp/239.49.8.109:8000
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="儿童",CCTV-14少儿
+http://172.17.0.2/udp/239.49.8.56:9826
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14少儿
 http://172.17.0.2/udp/239.49.8.56:9826
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐
@@ -153,8 +155,6 @@ http://172.17.0.2/udp/239.49.8.118:8000
 http://172.17.0.2/udp/239.49.8.119:8000
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="儿童",金鹰卡通
 http://172.17.0.2/udp/239.49.8.33:8000
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="儿童",CCTV-14少儿
-http://172.17.0.2/udp/239.49.8.56:9826
 #EXTINF:-1,tvg-id="" tvg-name="江苏公共新闻" tvg-logo="https://epg.112114.eu.org/logo/江苏公共新闻.png" group-title="江苏",江苏公共新闻
 http://172.17.0.2/udp/239.49.8.120:8000
 #EXTINF:-1,tvg-id="" tvg-name="江苏教育" tvg-logo="https://epg.112114.eu.org/logo/江苏教育.png" group-title="江苏",江苏教育
